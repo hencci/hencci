@@ -14,3 +14,15 @@ const henryMoses = {
   challenge: "I’m currently working on personal projects and learning new technologies."
 }
 ```
+
+## 🔧 Technologies & Tools
+
+- 💻 JavaScript.
+- 🛠 Git.
+- 🌐 HTML, CSS.
+
+![Hencci's Github stats](https://github-readme-stats.vercel.app/api?username=hencci)
+
+## 🤝 Let's Connect
+
+- [LinkedIn](linkedin.com/in/henry-orlu-moses-78bb74286)
